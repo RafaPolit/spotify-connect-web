@@ -6,3 +6,4 @@ pycparser>=2.10
 pyalsaaudio>=0.8
 gevent==1.2.2
 pylast==2.2.0
+werkzeug<1.0
